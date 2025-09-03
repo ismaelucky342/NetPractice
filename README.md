@@ -1,4 +1,5 @@
 # NetPractice - TCP/IP Addressing & Subnetting
+<img width="1440" height="330" alt="image" src="https://github.com/user-attachments/assets/793b4fb2-5f07-4cae-9bb4-5a048dcb1459" />
 
 ## Overview
 
